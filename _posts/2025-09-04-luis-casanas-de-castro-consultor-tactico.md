@@ -7,7 +7,12 @@ lang: es
 tags: [consultoría táctica, material policial y militar, product management, seguridad]
 ---
 
+
 **Luis Casañas de Castro** es consultor táctico con más de diez años de experiencia en el sector de material policial y militar. Ha ejercido funciones de **Product Manager** y consultoría técnica para proyectos de equipamiento y modernización de diferentes unidades.
+
+## Ejemplo de equipamiento policial
+
+![Chaleco antibalas policial con corte láser y placa del CNP]( {{ "/assets/img/chaleco.jpg" | relative_url }} )        ![Agente portando chaleco antibalas de dotación oficial]( {{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }} )
 
 ## Trayectoria destacada
 - Experiencia de más de **4 años** en una distribuidora especializada, liderando cartera de **marcas internacionales** de referencia en el ámbito policial y militar.
@@ -20,12 +25,6 @@ tags: [consultoría táctica, material policial y militar, product management, s
 - **MSA** (cascos balísticos).
 - **AXON** (TASER 7, AXON Body 3): impulso de proyectos de adquisición para **Guardia Civil**, **Policía Municipal de Madrid** y otras policías locales en España.
 
-## Ejemplo de equipamiento policial
-
-![Chaleco antibalas policial con sistema MOLLE y escudo del CNP]( {{ "/assets/img/chaleco-policia.webp" | relative_url }} )
-
-![Agente portando chaleco antibalas de dotación oficial]( {{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }} )
-
 ## Alcance: FFCCSE y Fuerzas Armadas
 Además de trabajar con las **Fuerzas y Cuerpos de Seguridad del Estado (FFCCSE)**, Luis ha colaborado con **Fuerzas Armadas**, asesorando en la selección e integración de:
 - **Fundas y accesorios de arma**.
@@ -37,4 +36,4 @@ A nivel personal, acumula **más de 20 años** como **tirador deportivo** en dis
 
 ---
 
-*Palabras clave sugeridas*: consultor táctico, material policial, material militar, product manager, Safariland, Streamlight, MSA, AXON, TASER 7, AXON Body 3, Guardia Civil, Policía Nacional, Policía Municipal de Madrid, cascos balísticos, protección balística, plate carrier, FFCCSE.
+*Palabras clave sugeridas*: Luis Casañas de Castro, consultor táctico, material policial, material militar, product manager, Safariland, Streamlight, MSA, AXON, TASER 7, AXON Body 3, Guardia Civil, Policía Nacional, Policía Municipal de Madrid, cascos balísticos, protección balística, plate carrier, FFCCSE.
