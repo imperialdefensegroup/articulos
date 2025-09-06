@@ -1,9 +1,9 @@
-title: "Artículos de Luis Casañas"
+title: "Artículos de Tercio Imperial"
 description: "Artículos y notas técnicas."
 lang: es
 timezone: Europe/Madrid
 
-url: "https://toncat23.github.io"
+url: "https://imperialdefensegroup.github.io"
 baseurl: "/articulos"   # <- importante para que las URLs y canonicals sean correctas
 
 permalink: /:year/:month/:day/:title/
@@ -18,13 +18,13 @@ logo: /assets/img/logo.png     # opcional
 image: /assets/img/og.jpg      # imagen por defecto para compartir
 
 author:
-  name: "Luis Casañas"
-  url: "https://toncat23.github.io/articulos/"
+  name: "Tercio Imperial"
+  url: "https://imperialdefensegroup.github.io/articulos/"
 
 social:
-  name: "Luis Casañas"
+  name: "Tercio Imperial"
   links:
-    - "https://github.com/toncat23"
+    - "https://github.com/imperialdefensegroup"
 
 # si luego verificas Search Console por meta, pega el código aquí:
 # google_site_verification: "PEGA_AQUI_TU_CODIGO"
