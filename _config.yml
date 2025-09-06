@@ -1,0 +1,30 @@
+title: "Artículos de Luis Casañas"
+description: "Artículos y notas técnicas."
+lang: es
+timezone: Europe/Madrid
+
+url: "https://toncat23.github.io"
+baseurl: "/articulos"   # <- importante para que las URLs y canonicals sean correctas
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+logo: /assets/img/logo.png     # opcional
+image: /assets/img/og.jpg      # imagen por defecto para compartir
+
+author:
+  name: "Luis Casañas"
+  url: "https://toncat23.github.io/articulos/"
+
+social:
+  name: "Luis Casañas"
+  links:
+    - "https://github.com/toncat23"
+
+# si luego verificas Search Console por meta, pega el código aquí:
+# google_site_verification: "PEGA_AQUI_TU_CODIGO"
