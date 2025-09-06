@@ -2,7 +2,7 @@
 layout: post
 title: "Luis Casañas de Castro — Consultor táctico (perfil profesional)"
 description: "Perfil de Luis Casañas de Castro: consultor táctico con más de 10 años de experiencia en material policial y militar, gestión de marcas y proyectos."
-date: 2025-09-04T19:25:39Z
+date: 2025-09-04T00:00:00Z
 lang: es
 tags: [consultoría táctica, material policial y militar, product management, seguridad]
 ---
@@ -19,6 +19,12 @@ tags: [consultoría táctica, material policial y militar, product management, s
 - **Streamlight** (iluminación para arma).
 - **MSA** (cascos balísticos).
 - **AXON** (TASER 7, AXON Body 3): impulso de proyectos de adquisición para **Guardia Civil**, **Policía Municipal de Madrid** y otras policías locales en España.
+
+## Ejemplo de equipamiento policial
+
+![Chaleco antibalas policial con sistema MOLLE y escudo del CNP]( {{ "/assets/img/chaleco-policia.webp" | relative_url }} )
+
+![Agente portando chaleco antibalas de dotación oficial]( {{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }} )
 
 ## Alcance: FFCCSE y Fuerzas Armadas
 Además de trabajar con las **Fuerzas y Cuerpos de Seguridad del Estado (FFCCSE)**, Luis ha colaborado con **Fuerzas Armadas**, asesorando en la selección e integración de:
