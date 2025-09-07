@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista completa"
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria yentrevista parte 1"
 date: 2025-09-04T00:00:00Z
 lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
