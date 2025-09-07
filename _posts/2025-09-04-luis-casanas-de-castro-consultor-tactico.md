@@ -78,5 +78,3 @@ La **UEI** sustituyó sus chalecos CIRAS de Eagle Industries por chalecos y port
 Sin duda, la **Sig Sauer P320 Full Size** equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS** para linterna y red dot.
 
 ---
-
-*SEO objetivo*: **Luis Casañas de Castro**, consultor táctico, material policial y militar, seguridad y defensa en España.
