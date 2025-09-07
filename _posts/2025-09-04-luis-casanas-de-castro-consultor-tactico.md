@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico: trayectoria y entrevista parte 1"
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista completa"
+description: "Artículo SEO sobre Luis Casañas de Castro: experiencia, proyectos y entrevista íntegra sobre defensa y seguridad en España."
 date: 2025-09-04T00:00:00Z
 lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
@@ -9,7 +10,7 @@ author: "Imperial Defense Group"
 ---
 
 
-# Luis Casañas de Castro: trayectoria y entrevista parte 1
+# Luis Casañas de Castro: trayectoria, proyectos y entrevista completa
 
 Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
@@ -22,7 +23,9 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **MSA**: cascos balísticos y protección avanzada.
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 
-![Chaleco antibalas con corte láser y escudo del CNP]({{ "/assets/img/chaleco-policia.jpg" | relative_url }})  ![Agente portando chaleco de dotación oficial]({{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }})
+![Chaleco antibalas con corte láser y escudo del CNP]({{ "/assets/img/chaleco-policia.jpg" | relative_url }})
+
+![Agente portando chaleco de dotación oficial]({{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }})
 
 ## Colaboración con FFCCSE y Fuerzas Armadas
 
@@ -78,3 +81,5 @@ La **UEI** sustituyó sus chalecos CIRAS de Eagle Industries por chalecos y port
 Sin duda, la **Sig Sauer P320 Full Size** equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS** para linterna y red dot.
 
 ---
+
+*SEO objetivo*: **Luis Casañas de Castro**, consultor táctico, material policial y militar, seguridad y defensa en España.
