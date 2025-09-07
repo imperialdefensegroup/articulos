@@ -19,7 +19,10 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **MSA**: cascos balísticos y protección avanzada.
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 
-![Chaleco antibalas con corte láser y escudo del CNP]({{ "/assets/img/chaleco-policia.webp" | relative_url }}) ![Agente portando chaleco de dotación oficial]({{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }})
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="{{ '/assets/img/chaleco.jpg' | relative_url }}" alt="Chaleco antibalas policial con escudo del CNP" style="width:45%; height:auto;">
+  <img src="{{ '/assets/img/images.jpg' | relative_url }}" alt="Agente portando chaleco antibalas oficial" style="width:45%; height:auto;">
+</div>
 
 ## Colaboración con FFCCSE y Fuerzas Armadas
 
