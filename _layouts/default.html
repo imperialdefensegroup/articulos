@@ -1,22 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {%- seo -%}
+  <link rel="sitemap" type="application/xml" href="{{ site.url }}{{ site.baseurl }}/sitemap.xml">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;max-width:820px;margin:40px auto;padding:0 16px;line-height:1.6}
+    header,footer{opacity:.9}
+    header h1{margin:0 0 .25rem 0;font-size:1.75rem}
+    header a{text-decoration:none;color:inherit}
+    img{max-width:100%;height:auto}
+    pre,code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+  </style>
 </head>
 <body>
   <header>
-    <div class="brand"><a href="{{ '/' | relative_url }}" style="color:#111;text-decoration:none;">Artículos</a></div>
-    <nav>
-      <a class="home-btn" href="https://imperialdefensegroup.github.io/home/">HOME</a>
-    </nav>
+    <h1><a href="https://imperialdefensegroup.github.io/home/">Imperial Defense Group</a></h1>
+    {%- if site.description -%}<p>{{ site.description }}</p>{%- endif -%}
+    <hr>
   </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>© {{ site.time | date: "%Y" }} Artículos de Tercio Imperial</footer>
+
+  <main>{{ content }}</main>
+
+  <hr>
+  <footer>
+    <p>© {{ "now" | date: "%Y" }} {{ site.author.name }}</p>
+  </footer>
 </body>
 </html>

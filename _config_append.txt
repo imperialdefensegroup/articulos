@@ -1,0 +1,2 @@
+# Añade estas líneas (opcional) a tu _config.yml
+title: "Imperial Defense Group — Artículos"
