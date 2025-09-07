@@ -8,9 +8,6 @@ image: /assets/img/chaleco-policia.jpg
 author: "Imperial Defense Group"
 ---
 
-
-# Luis Casañas de Castro: trayectoria y entrevista parte 1
-
 Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
 ## Trayectoria profesional
