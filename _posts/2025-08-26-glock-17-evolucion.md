@@ -8,14 +8,14 @@ categories: [armas, pistolas, glock]
 tags: [glock 17, evolución, gen1, gen5, pistolas]
 permalink: /glock-17-evolucion/
 image: /assets/img/og.jpg
-thumbnail: /assets/img/glock-evolucion.jpg
+thumbnail: /assets/img/glock17evo.jpg
 sitemap: true
 last_modified_at: 2025-08-26
 ---
 
 > **Aviso legal**: Este artículo es **informativo e histórico**. No contiene instrucciones de uso ni de manipulación de armas.
 
-![Evolución Glock 17]({{ "/assets/img/glock-evo.jpg" | relative_url }})
+![Evolución Glock 17]({{ "/assets/img/glock17evo.jpg" | relative_url }})
 
 ## Introducción
 La **Glock 17**, presentada en **1982**, revolucionó el mundo de las pistolas de servicio al introducir un armazón de **polímero** y el sistema de disparo **Safe Action**. Desde entonces, su diseño ha evolucionado en varias generaciones, adaptándose a las demandas de cuerpos de seguridad y tiradores civiles en todo el mundo.
