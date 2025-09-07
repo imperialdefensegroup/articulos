@@ -18,6 +18,7 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **Streamlight**: linternas tácticas para armas de referencia mundial.
 - **MSA**: cascos balísticos y protección avanzada.
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
+- **First Spear**: Lider mundial en plate carrier de última generación, en especial los utilizados por unidades de operaciones especiales marítimas.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="{{ '/assets/img/chaleco.jpg' | relative_url }}" alt="Chaleco antibalas policial con escudo del CNP" style="width:45%; height:auto;">
