@@ -21,7 +21,7 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="{{ '/assets/img/chaleco.jpg' | relative_url }}" alt="Chaleco antibalas policial con escudo del CNP" style="width:45%; height:auto;">
-  <img src="{{ '/assets/img/images.jpg' | relative_url }}" alt="Agente portando chaleco antibalas oficial" style="width:45%; height:auto;">
+    <img src="{{ '/assets/img/images.jpg' | relative_url }}" alt="Agente portando chaleco antibalas oficial" style="width:45%; height:auto;">
 </div>
 
 ## Colaboración con FFCCSE y Fuerzas Armadas
