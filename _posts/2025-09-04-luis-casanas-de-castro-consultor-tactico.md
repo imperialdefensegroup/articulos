@@ -1,53 +1,58 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico y experto en defensa"
+title: "Luis Casañas de Castro — Consultor táctico y experto en seguridad y defensa"
 description: "Artículo optimizado para SEO sobre Luis Casañas de Castro: trayectoria, proyectos y visión en el sector policial y militar en España."
 date: 2025-09-04T00:00:00Z
 lang: es
-tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, seguridad, Product Manager]
+tags: [Luis Casañas de Castro, consultoría táctica, material policial y militar, Product Manager, seguridad]
 image: /assets/img/chaleco-policia.jpg
 author: "Imperial Defense Group"
 ---
 
 
-# Luis Casañas de Castro: una década marcando la diferencia en el sector táctico y de defensa
+# Luis Casañas de Castro: trayectoria, proyectos y visión en el sector táctico y de defensa
 
-Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave a la hora de introducir en España equipamiento de vanguardia para fuerzas policiales y militares.
+Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
 ## Trayectoria profesional
 
-Su carrera profesional comenzó en **Saborit International S.L.**, donde trabajó más de cuatro años como Product Manager liderando marcas internacionales de referencia.  
-Entre sus logros destacan:
-- **Safariland LCC**: diseño de fundas de chaleco para el CNP, implantadas en más de 2.000 unidades.  
-- **Streamlight**: linternas tácticas de referencia mundial.  
-- **MSA**: cascos balísticos.  
-- **AXON**: introducción en España del TASER 7 y la cámara AXON Body 3, adoptados por Guardia Civil, Policía Municipal de Madrid y policías locales.
+Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cuatro años como Product Manager liderando marcas internacionales de referencia.
 
-![Chaleco antibalas policial con corte láser y escudo del CNP]({ "/assets/img/chaleco-policia.jpg" | relative_url })
+- **Safariland LLC**: diseño de fundas de chaleco para el **CNP**, con más de **2.000 unidades** implantadas, incluidas unidades especiales.
+- **Streamlight**: linternas tácticas para armas de referencia mundial.
+- **MSA**: cascos balísticos y protección avanzada.
+- **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 
-![Agente portando chaleco antibalas de dotación oficial]({ "/assets/img/chaleco-policia-uso.jpg" | relative_url })
+![Chaleco antibalas con corte láser y escudo del CNP]({{ "/assets/img/chaleco-policia.jpg" | relative_url }})
 
-## Alcance en FFCCSE y Fuerzas Armadas
+![Agente portando chaleco de dotación oficial]({{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }})
 
-Luis Casañas de Castro no se ha limitado a las Fuerzas y Cuerpos de Seguridad del Estado; también ha colaborado con las Fuerzas Armadas en asesoramiento y adquisición de:
-- Fundas y accesorios de armas.
-- Plate carriers y escudos.
-- Cascos balísticos y protección avanzada.
+## Colaboración con FFCCSE y Fuerzas Armadas
+
+Casañas no se ha limitado a las Fuerzas y Cuerpos de Seguridad, también ha asesorado a las **Fuerzas Armadas**, aportando soluciones de élite en:
+- Fundas y accesorios para armas.
+- Plate carriers y escudos balísticos.
+- Cascos de protección y portaequipos modulares.
 
 ## Pasión por el tiro deportivo
 
-Además de su experiencia profesional, acumula **más de 20 años** como tirador deportivo en disciplinas como Fuego Central, Pistola Libre, IPSC y Aire.  
-Su calibre predilecto es el **9 mm Parabellum**, reflejo de su conexión entre la gestión técnica y la práctica real.
+Con más de **20 años** de experiencia como tirador deportivo en disciplinas como Fuego Central, Pistola Libre, IPSC y Aire, su calibre predilecto es el **9 mm Parabellum**, uniendo su bagaje profesional con la práctica directa.
 
 ## Entrevista (extracto)
 
 **¿Cómo ves el sector de defensa y seguridad en España?**  
-El sector vive un gran momento con empresas como **Indra, Escribano, FECSA o Fedur**, aunque falta inversión en defensa y más medios en las FFCCSE.
+El sector nacional vive uno de sus mejores momentos con empresas como **Indra, Escribano, FECSA o Fedur**. Sin embargo, aún falta inversión en defensa y en las FFCCSE, donde en algunos casos faltan medios técnicos y humanos.
 
 **¿Crees que los equipos de dotación de nuestras FFCCSE son los necesarios y suficientes?**  
-En protección balística, el CNP ha dado un gran salto con paneles Fedur y fundas MOLLE, y el GEO/GOES ya cuentan con chalecos escalables desarrollados junto a FEDUR y Sección 30.  
-La Guardia Civil utiliza principalmente paneles de FECSA y, en unidades especiales como el GAR, los THOR de NFM.
+El **CNP** cuenta con 1.600 TASER en 2025 y prevé superar las 4.000 en 2028. Su arma corta de dotación es la **H&K USP Compact**, que necesita renovación. También dispone de **Glock 43X** (3.000 unidades) para servicios de paisano y la **Sig Sauer P320** para GEO/GOES, aunque con accesorios mejorables.  
+En subfusiles, combina **CZ Evo Scorpion** y los clásicos **MP5**. En protección balística, ha avanzado con paneles Fedur y fundas MOLLE, mientras que **GEO/GOES** ya operan con chalecos escalables desarrollados por **FEDUR** y la Sección 30.
+
+La **Guardia Civil**, con 500 TASER y previsión de superar 1.000, usa la **Beretta 92FS** y recientemente adquirió la pistola israelí **ENTAM Ramon** (9.000 unidades). Sus subfusiles incluyen **MP5A3** y el moderno **Sig Sauer MCX Rattler .300 BLK**.  
+En protección balística, destacan paneles **FECSA**, equipos **THOR de NFM** para el GAR y chalecos FEDUR con suelta rápida en la UEI.
+
+**¿Cuál sería el “combo” ideal para GEO/GOES?**  
+La **Sig Sauer P320 Full Size**, equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS**.
 
 ---
 
-*SEO objetivo*: **Luis Casañas de Castro** — consultor táctico, material policial y militar, Product Manager, seguridad y defensa en España.
+*SEO objetivo*: **Luis Casañas de Castro** — consultor táctico, material policial y militar, seguridad y defensa en España.
