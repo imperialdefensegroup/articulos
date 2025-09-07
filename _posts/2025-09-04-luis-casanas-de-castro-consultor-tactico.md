@@ -37,7 +37,7 @@ Con más de **20 años** de experiencia como tirador deportivo en disciplinas co
 
 ---
 
-# Entrevista completa a Luis Casañas de Castro
+# Entrevista parte 1 a Luis Casañas de Castro
 
 **¿Cómo ves el sector de defensa y seguridad en España?**  
 
