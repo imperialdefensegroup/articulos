@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico y experto en seguridad y defensa"
-description: "Artículo optimizado para SEO sobre Luis Casañas de Castro: trayectoria, proyectos y visión en el sector policial y militar en España."
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista completa"
+description: "Artículo SEO sobre Luis Casañas de Castro: experiencia, proyectos y entrevista íntegra sobre defensa y seguridad en España."
 date: 2025-09-04T00:00:00Z
 lang: es
-tags: [Luis Casañas de Castro, consultoría táctica, material policial y militar, Product Manager, seguridad]
+tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
 image: /assets/img/chaleco-policia.jpg
 author: "Imperial Defense Group"
 ---
 
 
-# Luis Casañas de Castro: trayectoria, proyectos y visión en el sector táctico y de defensa
+# Luis Casañas de Castro: trayectoria, proyectos y entrevista completa
 
 Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
@@ -38,21 +38,48 @@ Casañas no se ha limitado a las Fuerzas y Cuerpos de Seguridad, también ha ase
 
 Con más de **20 años** de experiencia como tirador deportivo en disciplinas como Fuego Central, Pistola Libre, IPSC y Aire, su calibre predilecto es el **9 mm Parabellum**, uniendo su bagaje profesional con la práctica directa.
 
-## Entrevista (extracto)
+---
+
+# Entrevista completa a Luis Casañas de Castro
 
 **¿Cómo ves el sector de defensa y seguridad en España?**  
-El sector nacional vive uno de sus mejores momentos con empresas como **Indra, Escribano, FECSA o Fedur**. Sin embargo, aún falta inversión en defensa y en las FFCCSE, donde en algunos casos faltan medios técnicos y humanos.
+
+El sector a nivel nacional creo que está viviendo uno de sus mejores momentos con empresas con grandes proyectos nacionales y con expansión internacional, empresas como **Indra, Escribano, FECSA o Fedur** son un gran ejemplo de ello. A nivel de distribuidores todas las marcas de renombre internacional tienen ya representante en nuestro país.  
+
+Lo que nos falta a diferencia de otros mercados punteros es la inversión en defensa y sobre todo en las Fuerzas y Cuerpos de Seguridad donde falta en algunos casos más medios técnicos y humanos.
 
 **¿Crees que los equipos de dotación de nuestras FFCCSE son los necesarios y suficientes?**  
-El **CNP** cuenta con 1.600 TASER en 2025 y prevé superar las 4.000 en 2028. Su arma corta de dotación es la **H&K USP Compact**, que necesita renovación. También dispone de **Glock 43X** (3.000 unidades) para servicios de paisano y la **Sig Sauer P320** para GEO/GOES, aunque con accesorios mejorables.  
-En subfusiles, combina **CZ Evo Scorpion** y los clásicos **MP5**. En protección balística, ha avanzado con paneles Fedur y fundas MOLLE, mientras que **GEO/GOES** ya operan con chalecos escalables desarrollados por **FEDUR** y la Sección 30.
 
-La **Guardia Civil**, con 500 TASER y previsión de superar 1.000, usa la **Beretta 92FS** y recientemente adquirió la pistola israelí **ENTAM Ramon** (9.000 unidades). Sus subfusiles incluyen **MP5A3** y el moderno **Sig Sauer MCX Rattler .300 BLK**.  
-En protección balística, destacan paneles **FECSA**, equipos **THOR de NFM** para el GAR y chalecos FEDUR con suelta rápida en la UEI.
+Pregunta demasiado amplia para contestarla de manera sencilla, si les parece bien la resumimos en que arma corta, subfusiles y protección balística tienen y el accesorio de moda actualmente como es el dispositivo electrónico de control.  
+
+Cuando hablamos de FFCCSE nos referimos a Cuerpos Estatales, es decir, Guardia Civil y Policía Nacional.  
+
+Como suele pasar en España a veces llegamos tarde pero llegamos, en 2025 el **CNP** cuenta con 1.600 dispositivos electrónicos de control TASER y está previsto que para 2028 superen las 4.000 unidades.  
+
+Como arma corta de dotación cuentan con la **H&K USP Compact** para la mayoría de unidades, un arma que ya necesita ser renovada pero me consta que el Servicio de Armamento y Equipación Policial del Cuerpo Nacional de Policía ha realizado una consulta pública a las empresas para valorar la sustitución de la USP Compact donde destaca la posibilidad de que el arma lleve un sistema de aguja lanzada como utilizan la mayoría de armas modernas a diferencia de la actual que presenta un mecanismo de doble acción.  
+
+Esta no es la única arma corta que tiene el cuerpo, también cuenta con **Glock 43X** de reciente adquisición (unas 3.000 pistolas para las diferentes unidades que van de paisano) y la **Sig Sauer P320** para GEO/GOES. Un arma actualmente controvertida, equipada con funda de Kydex y linterna/láser Nightstick compacta, accesorios por debajo de los estándares mínimos para una unidad de élite como el GEO.  
+
+En cuanto a subfusiles cuentan con los nuevos **CZ Evo Scorpion** en calibre 9mm y los inmortales **MP5**. Una buena combinación: aunque soy un amante del MP5, hay situaciones donde la modernidad y sobre todo el peso del CZ es vital. El Evo, con su culata abatible, cabe perfectamente en una mochila tipo Vertx y su fabricación en polímero hace que su peso sea muy contenido.  
+
+En relación a la protección balística, el CNP ha dado un gran salto de modernidad equipando paneles **Fedur** con fundas MOLLE y bolsillos para la mayoría de unidades de seguridad ciudadana, UIP y UPR. **GEO/GOES** cuentan con nuevos chalecos desarrollados por **FEDUR** junto con la Sección 30, equipos altamente escalables que permiten configurar chaleco y portaplacas de forma flexible.  
+
+Por otro lado, la **Guardia Civil** cuenta con cerca de 500 TASER y espera superar las 1.000 unidades en los próximos años. Una cifra insuficiente para los tiempos que corren.  
+
+Como arma corta de dotación tienen la **Beretta 92FS**, una gran pistola fiable y precisa como demuestra su representante Eduardo de Cobos, campeón internacional de IPSC. Aunque él usa la Beretta 92X Performance, que no considero indicada para seguridad ciudadana.  
+
+Hace unos años el Instituto Armado adquirió cerca de 9.000 pistolas con sistema de aguja lanzada en un concurso donde participaron Glock (19 Gen5), Beretta (APX Centurion), HK (SFP9), Sig Sauer (P320 XCarry) y la ganadora **ENTAM Ramon**, pistola israelí. También disponen de un amplio lote de **HK USP Compact** para el GAR y de la **Glock 17** de dotación en la UEI.  
+
+En cuanto a subfusiles, cuentan con diferentes versiones de **MP5**, siendo la más usada la **MP5A3** con culata retráctil, además de los nuevos **Sig Sauer MCX Rattler .300 BLK**, clasificados como **PDW (Personal Defense Weapon)**, una gran decisión para operaciones modernas.  
+
+En protección balística, la Guardia Civil utiliza mayoritariamente paneles **FECSA** y algunos de la desaparecida Rabintex. El GAR usa equipos **THOR de NFM**, marca noruega en plena expansión que compite con Mehler y SIOEN, y que junto con Safariland puede comercializar en Europa los quick release de First Spear.  
+
+La **UEI** sustituyó sus chalecos CIRAS de Eagle Industries por chalecos y portaplacas de **FEDUR** con alta protección balística y sistema de suelta rápida Duraflex.  
 
 **¿Cuál sería el “combo” ideal para GEO/GOES?**  
-La **Sig Sauer P320 Full Size**, equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS**.
+
+Sin duda, la **Sig Sauer P320 Full Size** equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS** para linterna y red dot.
 
 ---
 
-*SEO objetivo*: **Luis Casañas de Castro** — consultor táctico, material policial y militar, seguridad y defensa en España.
+*SEO objetivo*: **Luis Casañas de Castro**, consultor táctico, material policial y militar, seguridad y defensa en España.
