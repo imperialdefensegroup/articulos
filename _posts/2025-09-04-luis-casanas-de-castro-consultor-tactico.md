@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico: trayectoria yentrevista parte 1"
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria y entrevista parte 1"
 date: 2025-09-04T00:00:00Z
 lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
@@ -9,7 +9,7 @@ author: "Imperial Defense Group"
 ---
 
 
-# Luis Casañas de Castro: trayectoria, proyectos y entrevista completa
+# Luis Casañas de Castro: trayectoria y entrevista parte 1
 
 Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
