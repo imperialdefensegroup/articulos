@@ -1,31 +1,28 @@
-PASOS PARA ARREGLAR "Dirección de sitemap no válida" EN SEARCH CONSOLE
+Guía rápida — Verificación de propiedad (Search Console)
 
-1) Asegúrate de estar en la propiedad correcta en Search Console:
-   - Tipo de propiedad: URL prefix
-   - URL EXACTA: https://imperialdefensegroup.github.io/articulos/
-   (Si la propiedad es otra, Google puede decir que la dirección del sitemap es inválida.)
+1) Sube el archivo 'google3969f57c69dd6c78.html' a la **raíz** del repo:
+   imperialdefensegroup/articulos
+   (junto a _config.yml, index.md, robots.txt, etc.)
 
-2) Sube estos archivos a la raíz del repo imperialdefensegroup/articulos:
-   - _config.yml (este que incluyo)
-   - robots.txt (este que incluyo)
-   (Si ya los tienes, sustituye o fusiona su contenido con lo de este paquete.)
+   Estructura ejemplo:
+   articulos/
+    ├─ _config.yml
+    ├─ index.md
+    ├─ robots.txt
+    ├─ _posts/
+    └─ google3969f57c69dd6c78.html  👈 aquí
 
-3) Haz un commit para forzar la reconstrucción de GitHub Pages.
+2) Haz Commit y espera a que GitHub Pages regenere el sitio.
 
-4) Verifica en el navegador que existe el sitemap:
-   https://imperialdefensegroup.github.io/articulos/sitemap.xml
-   - Si devuelve XML, perfecto.
-   - Si 404, revisa que en _config.yml estén:
-       url: "https://imperialdefensegroup.github.io"
-       baseurl: "/articulos"
-     y que el plugin jekyll-sitemap esté en "plugins".
+3) Comprueba en el navegador que la URL carga el archivo (texto plano):
+   https://imperialdefensegroup.github.io/articulos/google3969f57c69dd6c78.html
 
-5) En Search Console, dentro de la propiedad https://imperialdefensegroup.github.io/articulos/,
-   ve a Sitemaps y envía:
-   - O BIEN: sitemap.xml
-   - O BIEN: https://imperialdefensegroup.github.io/articulos/sitemap.xml
+4) Ve a Google Search Console, selecciona la propiedad
+   https://imperialdefensegroup.github.io/articulos/
+   y pulsa **Verificar**.
 
-6) Si sigue fallando:
-   - Asegúrate de que GitHub Pages esté activo (Settings → Pages → Branch: main / root).
-   - Vacía caché o intenta en modo incógnito.
-   - Comprueba que robots.txt NO bloquea (este archivo permite todo).
+Notas:
+- No cambies el **nombre** ni el **contenido** del archivo.
+- Si prefieres verificación por meta tag, pega en _config.yml:
+  google_site_verification: "google3969f57c69dd6c78.html"
+  (con jekyll-seo-tag se insertará en <head> automáticamente).
