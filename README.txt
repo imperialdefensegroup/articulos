@@ -1,11 +1,12 @@
-He corregido las rutas de imagen del artículo para que apunten a:
-  - /assets/img/chaleco.jpg
-  - /assets/img/images.jpg
+Este archivo robots.txt permite el rastreo completo del sitio y declara el sitemap.
 
-Asegúrate de que esos dos archivos existen en tu repositorio en assets/img/.
 Pasos:
-  1) Sube _posts/ y (si hace falta) assets/img/ a tu repo imperialdefensegroup/articulos.
-  2) Commit y espera a que GitHub Pages regenere.
-  3) Revisa la URL del artículo y comprueba que ambas imágenes se ven.
+1. Copia 'robots.txt' en la raíz del repositorio imperialdefensegroup/articulos
+   (junto a _config.yml, index.md, etc.).
 
-Si prefieres mantener otras rutas/nombres, dímelo y te genero otra versión.
+2. Haz commit y espera a que GitHub Pages regenere.
+
+3. Comprueba en el navegador:
+   https://imperialdefensegroup.github.io/articulos/robots.txt
+
+Deberías ver el contenido del archivo en texto plano.
