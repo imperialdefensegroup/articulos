@@ -24,7 +24,7 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 - **First Spear**: principal fabricante de plate carrier, espcializado en ambientes marítimos.
 
-![Chaleco antibalas SAFARILAND con corte láser y escudo del CNP]({{ "/assets/img/chaleco.jpg" | relative_url }})  ![Agente portando chaleco de SAFARILAND oficial]({{ "/assets/img/images.jpg" | relative_url }})
+![Chaleco antibalas SAFARILAND con corte láser y escudo del CNP]({{ "/assets/img/chaleco.jpg" | relative_url }})  ![Agente portando chaleco de SAFARILAND oficial]({{ "/assets/img/images.jpg" | relative_url }}) ![Agente portando chaleco de SAFARILAND]({{ "/assets/img/Operativo_Safariland.jpg" | relative_url }})
 
 ## Colaboración con FFCCSE y Fuerzas Armadas
 
