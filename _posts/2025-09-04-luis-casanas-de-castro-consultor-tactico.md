@@ -8,6 +8,8 @@ image: /assets/img/chaleco-policia.jpg
 author: "Imperial Defense Group"
 ---
 
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://imperialdefensegroup.github.io/home/"}, {"@type": "ListItem", "position": 2, "name": "Artículos", "item": "https://imperialdefensegroup.github.io/articulos/"}, {"@type": "ListItem", "position": 3, "name": "Luis Casañas de Castro", "item": "https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"}]}</script>
 Hablar de **Luis Casañas de Castro** es hablar de excelencia, innovación y compromiso absoluto con la seguridad. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
 ## Trayectoria profesional
@@ -17,13 +19,9 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **Safariland LLC**: diseño de fundas de chaleco para el **CNP**, con más de **2.000 unidades** implantadas, incluidas unidades especiales.
 - **Streamlight**: linternas tácticas para armas de referencia mundial.
 - **MSA**: cascos balísticos y protección avanzada.
-- **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
-- **First Spear**: Lider mundial en plate carrier de última generación, en especial los utilizados por unidades de operaciones especiales marítimas.
+- **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="{{ '/assets/img/chaleco.jpg' | relative_url }}" alt="Chaleco antibalas SAFARILAND Policial Nacional con escudo del CNP" style="width:45%; height:auto;">
-    <img src="{{ '/assets/img/images.jpg' | relative_url }}" alt="Agente UIP portando chaleco antibalas SAFARILAND oficial" style="width:45%; height:auto;">
-</div>
+![Chaleco antibalas con corte láser y escudo del CNP]({{ "/assets/img/chaleco-policia.webp" | relative_url }}) ![Agente portando chaleco de dotación oficial]({{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }})
 
 ## Colaboración con FFCCSE y Fuerzas Armadas
 
@@ -38,7 +36,7 @@ Con más de **20 años** de experiencia como tirador deportivo en disciplinas co
 
 ---
 
-# Entrevista parte 1 a Luis Casañas de Castro
+# Entrevista completa a Luis Casañas de Castro
 
 **¿Cómo ves el sector de defensa y seguridad en España?**  
 
