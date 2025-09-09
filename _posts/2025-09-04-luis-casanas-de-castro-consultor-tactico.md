@@ -39,7 +39,7 @@ Con más de **20 años** de experiencia como tirador deportivo en disciplinas co
 
 ---
 
-# Entrevista completa a Luis Casañas de Castro
+# Entrevista parte 1 a Luis Casañas de Castro
 
 **¿Cómo ves el sector de defensa y seguridad en España?**  
 
@@ -78,6 +78,8 @@ La **UEI** sustituyó sus chalecos CIRAS de Eagle Industries por chalecos y port
 **¿Cuál sería el “combo” ideal para GEO/GOES?**  
 
 Sin duda, la **Sig Sauer P320 Full Size** equipada con una **Streamlight TLR-2HL** y una funda **Safariland 6390RDS** para linterna y red dot.
+
+Proximamente habrá una 2º entrega de la entrevista, estar atentos...
 
 ---
 
