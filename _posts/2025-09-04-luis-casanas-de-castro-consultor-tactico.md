@@ -22,6 +22,7 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **Streamlight**: linternas tácticas para armas de referencia mundial.
 - **MSA**: cascos balísticos y protección avanzada.
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
+- **First Spear**: principal fabricante de plate carrier, espcializado en ambientes marítimos.
 
 ![Chaleco antibalas SAFARILAND con corte láser y escudo del CNP]({{ "/assets/img/chaleco.jpg" | relative_url }})  ![Agente portando chaleco de SAFARILAND oficial]({{ "/assets/img/images.jpg" | relative_url }})
 
