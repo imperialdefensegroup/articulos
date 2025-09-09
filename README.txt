@@ -1,13 +1,11 @@
-Añadido schema.org BreadcrumbList (JSON-LD) al artículo.
+He corregido las rutas de imagen del artículo para que apunten a:
+  - /assets/img/chaleco.jpg
+  - /assets/img/images.jpg
 
-Qué hace:
-- Define la jerarquía Home › Artículos › Luis Casañas de Castro con URLs absolutas.
-- Permite a Google mostrar breadcrumbs en los resultados.
+Asegúrate de que esos dos archivos existen en tu repositorio en assets/img/.
+Pasos:
+  1) Sube _posts/ y (si hace falta) assets/img/ a tu repo imperialdefensegroup/articulos.
+  2) Commit y espera a que GitHub Pages regenere.
+  3) Revisa la URL del artículo y comprueba que ambas imágenes se ven.
 
-Cómo usar:
-1) Sube _posts/2025-09-04-luis-casanas-de-castro-consultor-tactico.md a tu repo imperialdefensegroup/articulos (sustituye el existente).
-2) Commit y despliegue de GitHub Pages.
-3) Valida en:
-   - https://search.google.com/test/rich-results
-   - https://validator.schema.org/
-   Pega la URL del artículo para comprobar el marcado.
+Si prefieres mantener otras rutas/nombres, dímelo y te genero otra versión.
