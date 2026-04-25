@@ -4,16 +4,10 @@ title: "Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel 
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
-
-## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
-
-Aquí empieza tu contenido...
----
-
-# Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense DDM4
-
-
-2º parte de la entrevista a Luis Casañas
+Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
+<h2 style="text-align: center;">
+## 2º parte de la entrevista a Luis Casañas
+</h2>
 
 ## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
@@ -30,15 +24,15 @@ Con estos criterios de adjudicación era casi imposible que una empresa de prime
 Profundicemos algo más en el Informe Técnico, aquí hay algunos aspectos a destacar dentro de las valoraciones hechas por los agentes que pueden clasificarse como curiosas, al decir cosas del estilo, “No es posible activar la palanca del seguro sin cartucho en recámara”, “Buena arma, sencilla, fea, pero eficiente” “mayor peso de la corredera, mayor peso” 
 Con esto no quiero decir que la elección no haya sido acertada ni mucho menos, pero si que es arriesgada, solo el tiempo dirá si la elección de la Echelon 4.0 fue la acertada, lo que no cabe duda es que según los criterios aplicados por el licitador el arma croata ha sido la mejor valorada tanto económicamente como técnicamente.
 
-Pero según tu criterio, ¿cuál hubiese sido tu elección?
+## Pero según tu criterio, ¿cuál hubiese sido tu elección?
 Para mi la más económica entre modelos que llevan en servicio años, tales como Glock 19/45 MOS, HK SFP9, Beretta APX, CZ 10C OR o Walter PDP Compact. Con esto no quiero decir que la elección de Echelon haya sido mala sino que con estas armas cortas eliminas la duda del largo plazo armas que llevan tiempo en servicios superando los 20.000 disparos de vida útil en la mayoría de modelos, algo que con la Springfield Echelon es algo que solo el tiempo dirá si ha sido una buena elección. Hay que puntualizar que con los modelos mencionados anteriormente tampoco están libres de vayan fallar simplemente porque sean marca muy reconocidas, ahí está Sig Sauer con los “supuestos” problemas que están dando las versiones de la P320.
 
-¿Cuál sería tu apuesta personal para reemplazar la “famosa” Ramon? 
+## ¿Cuál sería tu apuesta personal para reemplazar la “famosa” Ramon? 
 La respuesta es similar, aunque me voy a mojar algo más. Yo tengo ganas de ver por fin una arma corta con aguja lanzada y Optic Reddit en la Benemérita. Me gustaría poder ver al GAR a la USECIC o simplemente a un guardia de seguridad ciudadana que le gusten las armas que entrene en su tiempo libre que no se limite a los ejercicios de tiro y PATIO con un red dot en su arma de dotación.
 
 Elegiría la más barata entre Glock 45 MOS o la CZ P10C OR, mis dos pistolas policiales favoritas y esa sería la CZ P10C OR.
 
-¿Qué opinas de la nueva adquisición de Daniel Defense DDM4 para la Policía Nacional?
+## ¿Qué opinas de la nueva adquisición de Daniel Defense DDM4 para la Policía Nacional?
 La Policía Nacional está haciendo muy muy bien las cosas a nivel de concursos públicos y este es un ejemplo de ello. Para empezar a sustituir los G36, creo que es un acierto.
 
 Yo soy más partidario de armas largas de pistón corto más que las de Direct Impingement. Esta arquitectura resulta especialmente adecuada para unidades que operan en entornos no controlados o con limitaciones de mantenimiento, donde la continuidad operativa prima sobre la optimización en peso o simplicidad mecánica. 
