@@ -35,8 +35,8 @@ Elegiría la más barata entre Glock 45 MOS o la CZ P10C OR, mis dos pistolas po
 ## ¿Qué opinas de la nueva adquisición de Daniel Defense DDM4 para la Policía Nacional?
 La Policía Nacional está haciendo muy muy bien las cosas a nivel de concursos públicos y este es un ejemplo de ello. Para empezar a sustituir los G36, creo que es un acierto.
 
-Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
-
 Yo soy más partidario de armas largas de pistón corto más que las de Direct Impingement. Esta arquitectura resulta especialmente adecuada para unidades que operan en entornos no controlados o con limitaciones de mantenimiento, donde la continuidad operativa prima sobre la optimización en peso o simplicidad mecánica. 
 
 Como por ejemplo los SCAR de FN o el Bren 3 de CZ. Quizá tenga una curva de aprendizaje superior a las plataformas AR15 pero a la larga tienen mejor vida útil y teniendo en cuenta que las armas en España se renuevan cada 20-25 años a diferencia de los americanos son mejor opción.
+
+Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
