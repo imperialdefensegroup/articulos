@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico. Entrevista parte 2"
+title: "title: "Luis Casañas de Castro: entrevista sobre arma corta, Echelon 4.0, CZ Bren 3 y material policial en España (Parte 2)""
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
