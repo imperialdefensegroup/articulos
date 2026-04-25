@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense DDM4"
+title: "Luis Casañas de Castro — Consultor táctico. Entrevista parte 2"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
