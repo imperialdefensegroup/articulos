@@ -4,7 +4,7 @@ title: "Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel 
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
-Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
+
 <h2 style="text-align: center;">
 ## 2º parte de la entrevista a Luis Casañas
 </h2>
@@ -34,6 +34,8 @@ Elegiría la más barata entre Glock 45 MOS o la CZ P10C OR, mis dos pistolas po
 
 ## ¿Qué opinas de la nueva adquisición de Daniel Defense DDM4 para la Policía Nacional?
 La Policía Nacional está haciendo muy muy bien las cosas a nivel de concursos públicos y este es un ejemplo de ello. Para empezar a sustituir los G36, creo que es un acierto.
+
+Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
 
 Yo soy más partidario de armas largas de pistón corto más que las de Direct Impingement. Esta arquitectura resulta especialmente adecuada para unidades que operan en entornos no controlados o con limitaciones de mantenimiento, donde la continuidad operativa prima sobre la optimización en peso o simplicidad mecánica. 
 
