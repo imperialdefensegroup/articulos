@@ -3,6 +3,7 @@ Este es un sitemap.xml estático para la sección /articulos de tu web.
 Incluye:
 - https://imperialdefensegroup.github.io/articulos/
 - https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/
+- https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/
 
 Pasos:
 1. Coloca 'sitemap.xml' en la raíz del repo imperialdefensegroup/articulos (junto a _config.yml, robots.txt, etc.).
