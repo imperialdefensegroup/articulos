@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista completa"
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista parte 1"
 description: "Artículo SEO sobre Luis Casañas de Castro: experiencia, proyectos y entrevista íntegra sobre defensa y seguridad en España."
 date: 2025-09-04T00:00:00Z
 lang: es
