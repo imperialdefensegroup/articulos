@@ -5,12 +5,6 @@ date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
 [1º parte de la entrevista](https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/)
-<p style="margin: 25px 0;">
-  <a href="https://imperialdefensegroup.github.io/articulos/"
-     style="display: inline-block; background-color: #333; color: #fff; padding: 12px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">
-    ← Volver a artículos
-  </a>
-</p>
 
 ## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
@@ -41,5 +35,12 @@ La Policía Nacional está haciendo muy muy bien las cosas a nivel de concursos 
 Yo soy más partidario de armas largas de pistón corto más que las de Direct Impingement. Esta arquitectura resulta especialmente adecuada para unidades que operan en entornos no controlados o con limitaciones de mantenimiento, donde la continuidad operativa prima sobre la optimización en peso o simplicidad mecánica. 
 
 Como por ejemplo los SCAR de FN o el Bren 3 de CZ. Quizá tenga una curva de aprendizaje superior a las plataformas AR15 pero a la larga tienen mejor vida útil y teniendo en cuenta que las armas en España se renuevan cada 20-25 años a diferencia de los americanos son mejor opción.
+
+<p style="margin: 25px 0;">
+  <a href="https://imperialdefensegroup.github.io/articulos/"
+     style="display: inline-block; background-color: #333; color: #fff; padding: 12px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    ← Volver a artículos
+  </a>
+</p>
 
 Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
