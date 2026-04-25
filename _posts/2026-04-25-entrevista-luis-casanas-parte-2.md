@@ -8,6 +8,8 @@ permalink: /entrevista-luis-casanas-parte-2/
 <h2 style="text-align: center;">
 2º parte de la entrevista a Luis Casañas
 </h2>
+1º parte de la entrevista:
+https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/
 
 ## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
