@@ -66,7 +66,7 @@ Por otro lado, la **Guardia Civil** cuenta con cerca de 500 TASER y espera super
 
 Como arma corta de dotación tienen la **Beretta 92FS**, una gran pistola fiable y precisa como demuestra su representante Eduardo de Cobos, campeón internacional de IPSC. Aunque él usa la Beretta 92X Performance, que no considero indicada para seguridad ciudadana.  
 
-Hace unos años el Instituto Armado adquirió cerca de 9.000 pistolas con sistema de aguja lanzada en un concurso donde participaron Glock (19 Gen5), Beretta (APX Centurion), HK (SFP9), Sig Sauer (P320 XCarry) y la ganadora **ENTAM Ramon**, pistola israelí. También disponen de un amplio lote de **HK USP Compact** para el GAR y de la **Glock 17** de dotación en la UEI.  
+Hace unos años el Instituto Armado adquirió cerca de 9.000 pistolas con sistema de aguja lanzada en un concurso donde participaron Glock (19 Gen5), Beretta (APX Centurion), HK (SFP9), Sig Sauer (P320 XCarry) y la ganadora **EMTAN Ramon**, pistola israelí. También disponen de un amplio lote de **HK USP Compact** para el GAR y de la **Glock 17** de dotación en la UEI.  
 
 En cuanto a subfusiles, cuentan con diferentes versiones de **MP5**, siendo la más usada la **MP5A3** con culata retráctil, además de los nuevos **Sig Sauer MCX Rattler .300 BLK**, clasificados como **PDW (Personal Defense Weapon)**, una gran decisión para operaciones modernas.  
 
@@ -82,4 +82,4 @@ Proximamente habrá una 2º entrega de la entrevista, estar atentos...
 
 ---
 
-*SEO objetivo*: **Luis Casañas de Castro**, consultor táctico, material policial y militar, seguridad y defensa en España.
+
