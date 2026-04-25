@@ -6,7 +6,7 @@ permalink: /entrevista-luis-casanas-parte-2/
 ---
 
 <h2 style="text-align: center;">
-## 2º parte de la entrevista a Luis Casañas
+2º parte de la entrevista a Luis Casañas
 </h2>
 
 ## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
