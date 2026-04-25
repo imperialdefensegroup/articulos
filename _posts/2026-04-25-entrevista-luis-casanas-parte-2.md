@@ -2,7 +2,12 @@
 layout: post
 title: "Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense DDM4"
 date: 2026-04-25
-permalink: /articulos/entrevista-luis-casanas-parte-2/
+permalink: /entrevista-luis-casanas-parte-2/
+---
+
+## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
+
+Aquí empieza tu contenido...
 ---
 
 # Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense DDM4
