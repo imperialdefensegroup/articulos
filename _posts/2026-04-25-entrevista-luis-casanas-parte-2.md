@@ -14,9 +14,9 @@ Hay que dar un poco de contexto a como ha sido la adjudicación. Un concurso don
 
 | Modelo | Precio |
 |--------|--------|
-| GLOCK GmbH / Glock 45  | 499,33 € |
-| HECKLER & KOCH GmbH / SFP9  | 722,00 € |
-| LEJARAZU SPORT / Springfield Armory Echelon  | 328,90 € |
+| GLOCK GmbH / Glock 45  | 499,33€ |
+| HECKLER & KOCH GmbH / SFP9  | 722,00€ |
+| LEJARAZU SPORT / Springfield Armory Echelon  | 328,90€ |
  
 Con estos criterios de adjudicación era casi imposible que una empresa de primer nivel, hablamos de HK, Glock, Walther, CZ o Beretta puedan tener alguna posibilidad real. Hay que remarcar que en el caso de la ganadora Echelon 4.0 son 328,90€ precio unitario incluyendo (arma, 3 cargadores, funda nivel III, un portacargador simple/doble, caja, kit de limpieza y manual de usuario.
 
