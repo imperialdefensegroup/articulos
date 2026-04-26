@@ -13,8 +13,6 @@ tags: [CZ P-10 C OR, CZ P10 C OR, pistola CZ, pistola optics ready, pistola 9mm,
 
 ![CZ P10C OR]({{ "/assets/img/P10C.jpg" | relative_url }})
 
-# CZ P-10 C OR: análisis de la pistola compacta optics-ready de CZ
-
 ## Introducción
 
 La **CZ P-10 C OR** es una pistola semiautomática compacta de calibre **9 × 19 mm**, armazón de polímero y sistema de disparo **striker-fired**. Forma parte de la familia CZ P-10, una línea desarrollada por Česká zbrojovka para competir directamente en el segmento de las pistolas modernas de servicio.
