@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro – Consultor táctico: trayectoria, proyectos y entrevista parte 1"
+title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista completa"
 description: "Artículo SEO sobre Luis Casañas de Castro: experiencia, proyectos y entrevista íntegra sobre defensa y seguridad en España."
 date: 2025-09-04
 lang: es
@@ -9,6 +9,8 @@ image: /assets/img/chaleco.jpg
 author: "Imperial Defense Group"
 canonical: https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/
 ---
+
+# Luis Casañas de Castro: trayectoria, proyectos y entrevista completa
 
 Hablar de **Luis Casañas de Castro** es hablar de experiencia, innovación y compromiso con todo lo relacionado con el entorno de la seguridad para los integrantes de las Fuerzas y Cuerpos de Seguridad y Fuerzas Armadas. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
