@@ -13,7 +13,7 @@ permalink: /entrevista-luis-casanas-parte-2/
 
 Luis Casañas analiza la elección Echelon 4.0, entre otras cosas interesantes en esta 2º parte de la entrevista.
 
-## ¿Cómo ves la elección de la nueva arma corta por parte de la Policía NAcional?
+## ¿Cómo ves la elección de la nueva arma corta por parte de la Policía Nacional?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
 
 Vamos por partes, la nueva adquisición de la Policía Nacional es la Springfield Armory Echelon 4.0, un arma corta de aguja lanzada fabricada por la empresa croata HS Produkt. El hecho de que el CNP pueda empezar a sustituir las HK Compact de doble acción por un arma de aguja lanzada ya es un avance, aunque llegue 25 años tarde…
