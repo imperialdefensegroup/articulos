@@ -7,7 +7,6 @@ lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
 image: /assets/img/chaleco.jpg
 author: "Imperial Defense Group"
-canonical: https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/
 ---
 
 # Luis Casañas de Castro: trayectoria, proyectos y entrevista completa
