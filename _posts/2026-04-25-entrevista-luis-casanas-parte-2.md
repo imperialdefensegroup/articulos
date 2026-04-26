@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas: arma corta, Echelon 4.0 y CZ Bren 3 entrevista 2º parte"
+title: "Luis Casañas: Echelon 4.0, CZ Bren 3 y más en la entrevista 2º parte"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
