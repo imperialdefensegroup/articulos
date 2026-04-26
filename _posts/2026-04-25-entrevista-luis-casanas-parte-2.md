@@ -12,9 +12,11 @@ En los tiempos actuales con el revuelo que está generando la nueva elección de
 Vamos por partes, la nueva adquisición de la Policía Nacional es la Springfield Armory Echelon 4.0, un arma corta de aguja lanzada fabricada por la empresa croata HS Produkt. El hecho de que el CNP pueda empezar a sustituir las HK Compact de doble acción por un arma de aguja lanzada ya es un avance, aunque llegue 25 años tarde…
 Hay que dar un poco de contexto a como ha sido la adjudicación. Un concurso donde el 50% del criterio para la adjudicación ha sido el precio, siendo el porcentaje restante 25% Juicio de Valor y otro 25% Mejoras Técnicas.
 
-- GLOCK GmbH / Glock 45: 499,33 €
-- HECKLER & KOCH GmbH / SFP9: 722,00 €
-- LEJARAZU SPORT / Springfield Armory Echelon: 328,90 €
+| Modelo | Precio |
+|--------|--------|
+| GLOCK GmbH / Glock 45 | 499,33 € |
+| HECKLER & KOCH GmbH / SFP9 | 722,00 € |
+| LEJARAZU SPORT / Springfield Armory Echelon | 328,90 € |
  
 Con estos criterios de adjudicación era casi imposible que una empresa de primer nivel, hablamos de HK, Glock, Walther, CZ o Beretta puedan tener alguna posibilidad real. Hay que remarcar que en el caso de la ganadora Echelon 4.0 son 328,90€ precio unitario incluyendo (arma, 3 cargadores, funda nivel III, un portacargador simple/doble, caja, kit de limpieza y manual de usuario.
 
