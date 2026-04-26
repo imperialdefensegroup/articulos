@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CZ P-10 C OR: análisis de la pistola compacta optics-ready de CZ"
+title: "CZ P-10 C OR: análisis de la pistola compacta optics-ready"
 date: 2026-04-26
 permalink: /cz-p10-c-or-analisis/
 description: "Análisis profesional de la CZ P-10 C OR, pistola compacta striker-fired de 9 mm con corredera optics-ready, ergonomía avanzada y enfoque policial, militar y defensivo."
