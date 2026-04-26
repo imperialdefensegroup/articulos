@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas de Castro: entrevista sobre arma corta, Echelon 4.0, CZ Bren 3 y material policial en España (Parte 2)"
+title: "Luis Casañas: arma corta, Echelon 4.0 y CZ Bren 3 entrevista 2º parte"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
