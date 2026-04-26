@@ -4,9 +4,9 @@ title: "Luis Casañas de Castro: entrevista sobre arma corta, Echelon 4.0, CZ Br
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 ---
-<p style="margin: 20px 0;">
+<p style="margin: 15px 0;">
   <a href="https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
-     style="display: inline-block; background-color: #28a745; color: #fff; padding: 14px 22px; text-decoration: none; border-radius: 6px; font-weight: bold;">
+     style="display: inline-block; background-color: #1f4d2e; color: #000; padding: 8px 14px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px;">
     ← Volver a la 1º parte de la entrevista
   </a>
 </p>
