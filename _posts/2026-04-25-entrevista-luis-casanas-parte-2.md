@@ -11,6 +11,8 @@ permalink: /entrevista-luis-casanas-parte-2/
   </a>
 </p>
 
+Luis Casañas analiza la elección Echelon 4.0, entre otras cosas interesantes en esta 2º parte de la entrevista.
+
 ## ¿Cómo ves la elección de arma corta en nuestras FFCCSE?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
 
