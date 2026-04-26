@@ -6,8 +6,8 @@ permalink: /entrevista-luis-casanas-parte-2/
 ---
 <p style="margin: 15px 0;">
   <a href="https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
-     style="display: inline-block; background-color: #1f4d2e; color: #000; padding: 8px 14px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px;">
-    ← Volver a la 1º parte de la entrevista
+     style="display: inline-block; background-color: #1f4d2e; color: #fff; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 13px;">
+    1º parte
   </a>
 </p>
 
