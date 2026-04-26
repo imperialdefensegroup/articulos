@@ -77,6 +77,13 @@ Sin duda, la **Sig Sauer P320 Full Size** equipada con una **Streamlight TLR-2HL
 
 Lee aquí la [segunda parte de la entrevista a Luis Casañas de Castro](https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/).
 
+<p style="margin: 25px 0;">
+  <a href="https://imperialdefensegroup.github.io/articulos/"
+     style="display: inline-block; background-color: #333; color: #fff; padding: 12px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    ← Volver a artículos
+  </a>
+</p>
+
 ---
 
 
