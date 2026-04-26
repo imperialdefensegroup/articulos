@@ -1,3 +1,4 @@
+canonical: https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/
 ---
 layout: post
 title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista parte 1"
