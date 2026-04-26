@@ -42,6 +42,7 @@ En este sentido, compite en el mismo segmento que modelos como la **Glock 19 MOS
 
 La ficha oficial de CZ identifica la **P-10 C OR** como una pistola compacta optics-ready con disparador de 25 N, armazón de polímero reforzado con fibra de vidrio y corredera preparada para el montaje de punto rojo.
 
+
 ![CZ P10C OR]({{ "/assets/img/P10C.jpg" | relative_url }})
 
 ## Sistema Optics-Ready
@@ -63,8 +64,6 @@ En la práctica, la **P-10 C OR** ofrece un agarre muy natural. La empuñadura p
 Además, la línea P-10 incorpora retén de corredera ambidiestro y retén de cargador intercambiable, lo que facilita su adaptación a usuarios diestros y zurdos.
 
 Este punto es especialmente importante en el ámbito profesional. Una pistola de dotación debe funcionar bien para usuarios con manos diferentes, niveles de experiencia distintos y necesidades operativas variadas. La ergonomía de la P-10 C OR ayuda a reducir esa barrera de adaptación.
-
-**Fuente oficial:** [Familia CZ P-10 - CZ Firearms](https://www.czfirearms.com/es/productos/pistolas/linea-cz-p-10)
 
 ## Disparador
 
