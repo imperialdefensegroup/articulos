@@ -27,7 +27,7 @@ Hay que dar un poco de contexto a como ha sido la adjudicación. Un concurso don
  
 Con estos criterios de adjudicación era casi imposible que una empresa de primer nivel, hablamos de HK, Glock, Walther, CZ o Beretta puedan tener alguna posibilidad real. Hay que remarcar que en el caso de la ganadora Echelon 4.0 son 328,90€ precio unitario incluyendo (arma, 3 cargadores, funda nivel III, un portacargador simple/doble, caja, kit de limpieza y manual de usuario.
 
-Profundicemos algo más en el Informe Técnico, aquí hay algunos aspectos a destacar dentro de las valoraciones hechas por los agentes que pueden clasificarse como curiosas, al decir cosas del estilo, *“No es posible activar la palanca del seguro sin cartucho en recámara”*, *“Buena arma, sencilla, fea, pero eficiente” “mayor peso de la corredera, mayor peso”*. 
+Profundicemos algo más en el Informe Técnico, aquí hay algunos aspectos a destacar dentro de las valoraciones hechas por los agentes que pueden clasificarse como curiosas, al decir cosas del estilo, *“No es posible activar la palanca del seguro sin cartucho en recámara”*, *“Buena arma, sencilla, fea, pero eficiente” “mayor peso de la corredera, mayor retroceso”*. 
 Con esto no quiero decir que la elección no haya sido acertada ni mucho menos, pero si que es arriesgada, solo el tiempo dirá si la elección de la Echelon 4.0 fue la acertada, lo que no cabe duda es que según los criterios aplicados por el licitador el arma croata ha sido la mejor valorada tanto económicamente como técnicamente.
 
 ## Pero según tu criterio, ¿cuál hubiese sido tu elección?
