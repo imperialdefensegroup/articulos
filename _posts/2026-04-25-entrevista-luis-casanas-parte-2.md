@@ -3,6 +3,7 @@ layout: post
 title: "Luis Casañas: Echelon 4.0, CZ Bren 3 y más en la entrevista 2º parte"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
+image: /assets/img/cz-p10c-upgrades.jpg
 ---
 <p style="margin: 15px 0;">
   <a href="https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
@@ -35,6 +36,8 @@ Para mi la más económica entre modelos que llevan en servicio años, tales com
 
 ## ¿Cuál sería tu apuesta personal para reemplazar la “famosa” Ramon? 
 La respuesta es similar, aunque me voy a mojar algo más. Yo tengo ganas de ver por fin una arma corta con aguja lanzada y Optic Reddit en la Benemérita. Me gustaría poder ver al GAR a la USECIC o simplemente a un guardia de seguridad ciudadana que le gusten las armas que entrene en su tiempo libre que no se limite a los ejercicios de tiro y PATIO con un red dot en su arma de dotación.
+
+![CZ P10C upgrade]({{ "/assets/img/cz-p10c-upgrades.jpg" | relative_url }})
 
 Elegiría la más barata entre Glock 45 MOS o la CZ P10C OR, mis dos pistolas policiales favoritas y esa sería la CZ P10C OR.
 
