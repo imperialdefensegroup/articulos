@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Casañas: Echelon 4.0, CZ Bren 3 y más en la entrevista 2º parte"
+title: "Luis Casañas de Castro: Echelon 4.0, CZ Bren 3 y más en la entrevista 2º parte"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 image: /assets/img/cz-p10c-upgrades.jpg
@@ -54,4 +54,4 @@ Como por ejemplo los SCAR de FN o el Bren 3 de CZ. Quizá tenga una curva de apr
   </a>
 </p>
 
-Entrevista a Luis Casañas: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
+Entrevista a Luis Casañas de Castro: arma corta, Echelon 4.0, Glock, CZ y Daniel Defense
