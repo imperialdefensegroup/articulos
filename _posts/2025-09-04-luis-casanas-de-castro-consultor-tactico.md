@@ -9,6 +9,8 @@ image: /assets/img/chaleco.jpg
 author: "Imperial Defense Group"
 ---
 
+**Continúa la entrevista:** [Luis Casañas de Castro — segunda parte: Echelon 4.0, CZ P10C y CZ Bren 3](https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/).
+
 **Luis Casañas de Castro** es sinónimo de experiencia, innovación y compromiso con todo lo relacionado con el entorno de la seguridad para los integrantes de las Fuerzas y Cuerpos de Seguridad y Fuerzas Armadas. Con más de diez años de experiencia en el sector armamentístico y táctico, se ha convertido en una figura clave en la introducción en España de equipamiento de vanguardia para fuerzas policiales y militares.
 
 ## Trayectoria profesional
