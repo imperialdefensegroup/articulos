@@ -16,6 +16,52 @@
   <link rel="canonical" href="{{ page.canonical }}">
   {% endif %}
 
+
+  {% if page.interviewee %}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:url" content="{{ page.canonical | escape }}">
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  <meta property="og:locale" content="es_ES">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/#article",
+  "url": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/"
+  },
+  "headline": "Luis Casañas de Castro: entrevista — Parte 2",
+  "description": "Segunda parte de la entrevista a Luis Casañas de Castro sobre la Echelon 4.0, CZ P10C, CZ Bren 3 y el equipamiento de Policía Nacional y Guardia Civil.",
+  "inLanguage": "es",
+  "datePublished": "2026-04-25",
+  "dateModified": "2026-09-08",
+  "image": [
+    "https://imperialdefensegroup.github.io/articulos/assets/img/cz-p10c-upgrades.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Imperial Defense Group",
+    "url": "https://imperialdefensegroup.github.io/home/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Imperial Defense Group",
+    "url": "https://imperialdefensegroup.github.io/home/"
+  },
+  "about": {
+    "@type": "Person",
+    "name": "Luis Casañas de Castro",
+    "url": "https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
+  }
+}
+  </script>
+  {% endif %}
+
   <!-- Estilos -->
   <style>
     body {
@@ -32,7 +78,7 @@
       opacity: 0.95;
     }
 
-    header h1 {
+    header .site-title {
       margin: 0 0 5px 0;
       font-size: 28px;
       line-height: 1.2;
@@ -122,11 +168,11 @@
 <body>
 
 <header>
-  <h1>
+  <p class="site-title">
     <a href="https://imperialdefensegroup.github.io/home/">
       Imperial Defense Group
     </a>
-  </h1>
+  </p>
   {% if site.description %}
   <p>{{ site.description }}</p>
   {% endif %}
