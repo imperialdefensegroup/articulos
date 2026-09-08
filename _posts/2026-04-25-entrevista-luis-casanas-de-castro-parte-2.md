@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Luis Casañas de Castro: Echelon 4.0, CZ Bren 3 y más en la entrevista 2º parte"
+title: "Luis Casañas de Castro: entrevista, segunda parte | Imperial Defense Group"
+description: "Segunda parte de la entrevista a Luis Casañas de Castro sobre la Echelon 4.0, CZ P10C, CZ Bren 3 y el equipamiento de Policía Nacional y Guardia Civil."
+canonical: "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/"
 date: 2026-04-25
 permalink: /entrevista-luis-casanas-parte-2/
 image: /assets/img/cz-p10c-upgrades.jpg
@@ -12,7 +14,7 @@ image: /assets/img/cz-p10c-upgrades.jpg
   </a>
 </p>
 
-Luis Casañas analiza la elección Echelon 4.0, entre otras cosas interesantes en esta 2º parte de la entrevista.
+En esta segunda parte de la entrevista, **Luis Casañas de Castro** analiza la elección de la Echelon 4.0, la CZ P10C, el CZ Bren 3 y el equipamiento de la Policía Nacional y la Guardia Civil.
 
 ## ¿Cómo ves la elección de la nueva arma corta por parte de la Policía Nacional?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
