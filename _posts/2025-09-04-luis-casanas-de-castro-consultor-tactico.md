@@ -61,7 +61,7 @@ En cuanto a subfusiles cuentan con los nuevos **CZ Evo Scorpion** en calibre 9mm
 
 En relación a la protección balística, el CNP ha dado un gran salto de modernidad equipando paneles **Fedur** con fundas MOLLE y bolsillos para la mayoría de unidades de seguridad ciudadana, UIP y UPR. **GEO/GOES** cuentan con nuevos chalecos desarrollados por **FEDUR** junto con la Sección 30, equipos altamente escalables que permiten configurar chaleco y portaplacas de forma flexible.  
 
-Por otro lado, la Guardia Civil cuenta con cerca de 500 TASER y espera superar las 1.000 unidades en los próximos años. Una cifra insuficiente para los tiempos que corren.  
+Por otro lado, la **Guardia Civil** cuenta con cerca de 500 TASER y espera superar las 1.000 unidades en los próximos años. Una cifra insuficiente para los tiempos que corren.  
 
 Como arma corta de dotación tienen la **Beretta 92FS**, una gran pistola fiable y precisa como demuestra su representante Eduardo de Cobos, campeón internacional de IPSC. Aunque él usa la Beretta 92X Performance, que no considero indicada para seguridad ciudadana.  
 
