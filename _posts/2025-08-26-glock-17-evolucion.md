@@ -7,8 +7,8 @@ lang: es
 categories: [armas, pistolas, glock]
 tags: [glock 17, evolución, gen1, gen5, pistolas]
 permalink: /glock-17-evolucion/
-image: /assets/img/og.jpg
-thumbnail: /assets/img/glock17evo.jpg
+image: /assets/img/glock-generaciones.svg
+thumbnail: /assets/img/glock-generaciones.svg
 sitemap: true
 last_modified_at: 2025-08-26
 ---
