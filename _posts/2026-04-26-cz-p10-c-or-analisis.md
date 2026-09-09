@@ -6,6 +6,7 @@ permalink: /cz-p10-c-or-analisis/
 description: "Análisis profesional de la CZ P-10 C OR, pistola compacta striker-fired de 9 mm con corredera optics-ready, ergonomía avanzada y enfoque policial, militar y defensivo."
 categories: [armamento, pistolas, CZ]
 tags: [CZ P-10 C OR, CZ P10 C OR, pistola CZ, pistola optics ready, pistola 9mm, pistola de servicio, striker fired]
+image: /assets/img/P10C.jpg
 ---
 
 > **Aviso legal:** Este artículo tiene carácter informativo, técnico e histórico. No contiene instrucciones de uso, manipulación ni modificación de armas de fuego.
