@@ -1,63 +1,63 @@
 <!doctype html>
-<html lang="es">
+<html lang="{{ page.lang | default: site.lang | default: 'es' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title }}</title>
+  {% assign page_title = page.title | default: site.title %}
+  {% assign page_description = page.description | default: site.description %}
+  {% assign canonical_url = page.canonical | default: page.url | absolute_url %}
+  <title>{{ page_title | escape }}</title>
+  <meta name="description" content="{{ page_description | escape }}">
+  <link rel="canonical" href="{{ canonical_url }}">
 
-  <!-- SEO básico -->
-  {% if page.description %}
-  <meta name="description" content="{{ page.description }}">
-  {% endif %}
-
-  <!-- Canonical -->
-  {% if page.canonical %}
-  <link rel="canonical" href="{{ page.canonical }}">
-  {% endif %}
-
-
-  {% if page.interviewee %}
+  {% if page.layout == "post" %}
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title | escape }}">
-  <meta property="og:description" content="{{ page.description | escape }}">
-  <meta property="og:url" content="{{ page.canonical | escape }}">
-  <meta property="og:image" content="{{ page.image | absolute_url }}">
-  <meta property="og:locale" content="es_ES">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:description" content="{{ page_description | escape }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+  <meta property="og:locale" content="{{ page.lang | default: site.lang | default: 'es' }}_ES">
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  {% if page.last_modified_at %}<meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page_description | escape }}">
+  {% if page.image %}<meta name="twitter:image" content="{{ page.image | absolute_url }}">{% endif %}
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "@id": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/#article",
-  "url": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/",
+  "@id": {{ canonical_url | append: "#article" | jsonify }},
+  "url": {{ canonical_url | jsonify }},
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/"
+    "@id": {{ canonical_url | jsonify }}
   },
-  "headline": "Luis Casañas de Castro: entrevista — Parte 2",
-  "description": "Segunda parte de la entrevista a Luis Casañas de Castro sobre la Echelon 4.0, CZ P10C, CZ Bren 3 y el equipamiento de Policía Nacional y Guardia Civil.",
-  "inLanguage": "es",
-  "datePublished": "2026-04-25",
-  "dateModified": "2026-09-08",
-  "image": [
-    "https://imperialdefensegroup.github.io/articulos/assets/img/cz-p10c-upgrades.jpg"
-  ],
+  "headline": {{ page_title | jsonify }},
+  "description": {{ page_description | jsonify }},
+  "inLanguage": {{ page.lang | default: site.lang | default: "es" | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}"{% if page.last_modified_at %},
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %}{% if page.image %},
+  "image": [{{ page.image | absolute_url | jsonify }}]{% endif %},
   "author": {
     "@type": "Organization",
-    "name": "Imperial Defense Group",
-    "url": "https://imperialdefensegroup.github.io/home/"
+    "name": {{ page.author | default: site.author.name | jsonify }},
+    "url": {{ site.author.url | default: site.url | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Imperial Defense Group",
-    "url": "https://imperialdefensegroup.github.io/home/"
-  },
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.logo | absolute_url | jsonify }}
+    }
+  }{% if page.interviewee %},
   "about": {
     "@type": "Person",
-    "name": "Luis Casañas de Castro",
-    "url": "https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
-  }
+    "name": {{ page.interviewee | jsonify }}
+  }{% endif %}
 }
   </script>
   {% endif %}
